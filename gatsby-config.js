@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://novela.narative.co`,
     description: `Remember the days when our ancestors used to keep track of memories, learnings, etc... in their personal diary. Well, this is mine!`,
     hero: {
-      heading: `Eric's Personal Blog.`,
+      heading: `Welcome to my personal blog created from one of my favourite open source gatsby theme <a href="https://novela.narative.co/" target="_blank">Novela</a> from <a href="https://narative.co/" target="_blank">Narative</a>`,
       maxWidth: 652,
     },
     social: [

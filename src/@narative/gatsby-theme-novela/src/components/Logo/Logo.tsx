@@ -126,7 +126,7 @@ export default Logo;
 
 const LogoContainer = styled.div`
   div {
-    font-family: "Kaushan Script", "cursive", "-apple-system", "BlinkMacSystemFont", "San Francisco",
+    font-family: "Permanent Marker", "cursive", "-apple-system", "BlinkMacSystemFont", "San Francisco",
     "Helvetica Neue", "Helvetica", "Ubuntu", "Roboto", "Noto", "Segoe UI",
     "Arial", sans-serif;
     font-size: 4rem;

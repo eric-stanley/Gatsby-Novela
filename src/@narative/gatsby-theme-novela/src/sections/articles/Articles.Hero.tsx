@@ -123,6 +123,7 @@ const HeroHeading = styled.h1`
   font-weight: 600;
   font-size: 52px;
   line-height: 1.15;
+  line-height: 7rem;
   color: ${p => p.theme.colors.primary};
 
   a {
