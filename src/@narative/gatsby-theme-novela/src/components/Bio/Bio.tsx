@@ -82,6 +82,7 @@ const BioText = styled.p`
   text-align: justify;
   font-size: 14px;
   line-height: 2;
+  font-weight: bold;
   color: ${p => p.theme.colors.grey};
 
   a {
