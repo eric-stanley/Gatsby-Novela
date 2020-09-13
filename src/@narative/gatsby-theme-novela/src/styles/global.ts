@@ -6,7 +6,7 @@ export const globalStyles = css`
    * https://gist.github.com/bendc/ac03faac0bf2aee25b49e5fd260a727d
    */
 
-  @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;1,700&family=Permanent+Marker&family=Poppins:wght@300&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;1,700&family=Permanent+Marker&display=swap');
 
   :root {
     --ease-in-quad: cubic-bezier(0.55, 0.085, 0.68, 0.53);
